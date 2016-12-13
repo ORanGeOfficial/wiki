@@ -1,6 +1,6 @@
 ## Welcome to the TerraFirmaProgressivePack wiki!
 
-Contents:
+### Contents:
 ***
 
 * Ore generation
