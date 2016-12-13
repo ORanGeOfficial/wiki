@@ -1,4 +1,4 @@
-# Welcome to the TerraFirmaProgressivePack wiki!
+## Welcome to the TerraFirmaProgressivePack wiki!
 
 Contents:
 ***
