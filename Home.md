@@ -5,7 +5,7 @@
 
 * [In-game manual](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/In-game-manual)
 * [Ore generation](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Ore-generation)
-* Basic progression tree
+* [Progression tree (simplified)](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Basic-progression-tree)
 * Crafting differences
 * Processing paths
 
