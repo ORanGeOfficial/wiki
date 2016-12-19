@@ -1,5 +1,5 @@
 ## Processing paths chart
-There is **[chart](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/processingpaths.pdf)** with some important processing paths, including flux, leather, mortar, efficient iron and steel production, zinc plating with cadmium recovery, aluminum smelting and some basic chemical components (natrium hydroxide, sulfuric, nitric and hydrochloric acid).  
+There is **[chart with some important processing paths](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/processingpaths.pdf)**, including flux, leather, mortar, efficient iron and steel production, zinc plating with cadmium recovery, aluminum smelting and some basic chemical components (natrium hydroxide, sulfuric, nitric and hydrochloric acid).  
 
 For another processing paths please refer NEI readings.  
 
