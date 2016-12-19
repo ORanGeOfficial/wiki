@@ -7,5 +7,5 @@
 * [Ore generation](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Ore-generation)
 * [Progression tree (simplified)](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Basic-progression-tree)
 * Crafting differences
-* Processing paths
+* [Processing paths](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Processing-paths-and-hints)
 
