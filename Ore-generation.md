@@ -9,5 +9,5 @@ Most of ores and minerals can be scanned both with use of prospector pick or IC2
 
 **Comprehensive list of additional ores, their spawn occurrences and detection methods, can be found [here.](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/ores.pdf)**
 
-
+Many ores have two possible occurrences: major in matrix rock (for example stibnite i basalt) and additional minor deposits (for example stibnite in hydrotermal veins).
 
