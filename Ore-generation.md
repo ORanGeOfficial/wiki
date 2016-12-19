@@ -7,7 +7,7 @@ Additionally new stone veins are generated: peridotite and pegmatite, which are 
 
 Most of ores and minerals can be scanned both with use of prospector pick or IC2 ore scanners.  Ore scanner gives also response from magmatic and metamorphic rocks including gemstone occurrence, however it is not sensitive on soft layers such sedimentary rocks or crude oil deposits.  
 
-**Comprehensive list of additional ores, their spawn occurrences and detection methods, can be found [here.](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/ores.pdf)**
+**Comprehensive list of additional ores, their spawn occurrences and detection methods, can be [found here.](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/ores.pdf)**
 
 Many ores have two possible occurrences: major in matrix rock (for example stibnite i basalt) and additional minor deposits (for example stibnite in hydrotermal veins).
 
