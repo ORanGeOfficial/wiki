@@ -36,6 +36,7 @@ Important note: ladle is always skipped in north direction:
 ![one side of shimney is transparent for better view](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/transferladle2.png)
 
 If everything is OK, you should see metal caster slowly filled with liquid steel:
-![metal caster gui](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/filledcaster.png)
+![metal caster gui](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/filledcaster.png).  
+
 One transfer ladle contain 5000 mb of liquid steel, equivalent of about 40 ingots.  
 If metal caster and hopper are empty, probably transfer ladle was placed too high. Place additional hopper above to solve problem.
