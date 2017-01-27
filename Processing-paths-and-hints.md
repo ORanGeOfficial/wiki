@@ -33,10 +33,13 @@ It is vise to make 5 block high chimney above refractory hopper:
 
 Use pickaxe to skip liquid metal from transfer ladle down to funnel.  
 Important note: ladle is always skipped in north direction:
-![one side of shimney is transparent for better view](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/transferladle2.png)
+![one side of chimney is transparent for better view](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/transferladle2.png)
 
 If everything is OK, you should see metal caster slowly filled with liquid steel:
 ![metal caster gui](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/filledcaster.png).  
 
 One transfer ladle contain 5000 mb of liquid steel, equivalent of about 40 ingots.  
 If metal caster and hopper are empty, probably transfer ladle was placed too high. Place additional hopper above to solve problem.
+
+Complete setup for fast steel production and casting - IE blast furnace with preheaters, Bessemer furnace with electric heater, foundry metal caster with funnel chimney above, and RF/EU cables:
+![steel processing setup](https://raw.githubusercontent.com/McZapkie/TerraFirmaProgressivePack/master/doc/steelprecessingsetup.jpg)
