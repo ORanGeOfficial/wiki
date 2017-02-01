@@ -8,4 +8,5 @@
 * [Progression tree (simplified)](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Basic-progression-tree)
 * [Crafting differences](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Crafting-differences)
 * [Processing paths](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Processing-paths-and-hints)
+* [Mobs, drops, block properties](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Mobs-and-drops)
 
