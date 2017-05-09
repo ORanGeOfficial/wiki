@@ -1,10 +1,10 @@
 ## Mob spawning
 Unlike vanilla TFC, aggresive mobs usually appear underground (skeletons, poisonous spiders, zombies, slimes and blazes), or very high (spiders), except weekly raids of zombie and skeletons (depend on moon phase).  
 
-At the surface there are usually relatively peaceful (if not provoked) creatures, such zombie pigmans or endermans.
+At the surface there are **usually relatively peaceful** (if not provoked) creatures, such zombie pigmans or endermans.
 Additionally, if is raining, some silverfish can be spotted on the sand beach. Night stormy weather in the middle of deep ocean can also summon some ghasts.   
 
-Ozelots can be found is swamp biome.  Can be tamed by using cat food (fish cooked in standard furnace).
+Ozelots can be found is swamp biome.  Can be tamed by using cat food (put fish into barrel with water).
 
 ## Mob properties
 Some underground zombies are faster than regular ones.  
