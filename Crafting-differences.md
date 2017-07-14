@@ -11,7 +11,7 @@
 * **Glass bottles** need to be forged from hot glass with use of hot tuyere, alternatively gas welding station and blowing pipe.
 * **Quartzite sand** can be separated by sieve or washer from granite or gneiss sand, with some feldspar as a by-product.
 * IC2 refined iron is renamed to 'stainless steel' and is alloy of steel and chrome (or ferrochrome).
-* IC2 blast furnace is renamed to Bessemer furnace and is used to refine liquid pig iron into liquid steel.
+* IC2 blast furnace is renamed to Bessemer furnace and is used to refine liquid pig iron into liquid steel (or HC black steel into final black steel).
 * Immersive Engineering blast furnace is used to produce liquid pig iron.
 * Refer to [processing hints](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Processing-paths-and-hints) for detailed information how to skip transfer ladle content to Foundry metal caster.
 * Railcraft blast furnace is used only to produce liquid iron.
