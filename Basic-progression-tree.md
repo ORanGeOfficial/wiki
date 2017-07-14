@@ -3,6 +3,6 @@
 
 For sake of readability, above chart contains only main progression paths, without some shortcuts or alternative detours of technology flowchart. 
 
-It also doesn't contain details of original TerrafirmaCraft progression flowchart, please refer:
+It also doesn't contain details of original TerrafirmaCraft progression flowchart, for those please refer
 [here](http://terrafirmacraft.com/f/uploads/monthly_06_2015/post-18291-0-93615500-1434322113.png)
 
