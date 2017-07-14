@@ -18,7 +18,7 @@
 * Yellow coke oven produce more creosote oil than gray one, but on slower rate.
 * Tier 0 ship block and paddle can be produced at stone age stage, sailing ship control blocks need more progression. Thatch blocks can be used to improve raft buoyancy.
 * Only impregnated wood (oil impregnated logs and planks, creosote treated planks and raw rubber logs) can be used for **ship construction**.
-* There are two methods of **paper** production: macerating reeds in base liquor and using wooden press, or advanced chemical processing wooden flour with sodium sulfide as input for paper machine.
+* There are two methods of **paper** production: macerating reeds in base liquor and using wooden press (must be exposed tu sun and broken when dried), or advanced chemical processing wooden flour with sodium sulfide as input for paper machine.
 * Latex resin can be obtained with resin collecting sack, which should be mounted at rubber tree slot.
 * Redstone is a result of grinding chipped or flawed red gems (tourmaline, topaz, ruby etc). In later stage you can melt large gems or produce synthetic redstone.
 
