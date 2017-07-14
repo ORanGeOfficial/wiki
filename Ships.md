@@ -13,6 +13,7 @@ Wool block, fences, vertical support beams, trapdoors etc are accepted for ship 
 
 Please note, that thatch and logs pile cannot be placed adjacent to water.
 Below there is example, how to assembly simple raft: first make wooden platform, place thatch on it, remove platform - raft is ready to launch.
+
 ![temporary platform](https://raw.githubusercontent.com/McZapkie/TerraFirmaProgressivePack/master/doc/raft1.png)
 ![thatch on platform](https://raw.githubusercontent.com/McZapkie/TerraFirmaProgressivePack/master/doc/raft2.png)
 ![raft ready to launch](https://raw.githubusercontent.com/McZapkie/TerraFirmaProgressivePack/master/doc/raft3.png)
