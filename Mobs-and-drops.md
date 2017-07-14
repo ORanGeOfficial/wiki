@@ -24,8 +24,6 @@ Ghasts, beside standard drop, can also give prismarine shards.
 ## Block properties and drops
 Radioactive containment enclosed in box and seasoned in barrel, can give some additional items (transmuted plates or metal dust piles, mutated rare seeds or saplings, spawning eggs) or even spawn some creatures (silverfish, cave spider, chicken, slime, creeper or blaze).  
 
-There is only 30% chance, that pumpkin would be harvested successfully, whereas lit pumpkin will be always destroyed completely upon break.  
-
 Peridotite and pegmatite can drop some extra ores or gems.
 
 Glass and quartzite glass can drop glass dust (which can be melted again) if broken. Glass in no more fire resistant. Use reinforced glass or quartz glass to hold lava/fire.  
