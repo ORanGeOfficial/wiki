@@ -27,8 +27,8 @@ Transfer ladle, filled with ore batch and flux, must to be placed into IE blast 
 This will produce transfer ladle filled with liquid pig iron. The next step is Bessemer Blast Furnace, which need heat source and compressed air to convert pig iron into liquid steel:
 ![Bessemer convertor](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/bessemerfurnace.png)
 
-Transfer ladle block should be placed 4 tiles above refractory hopper (funnel for hot liquids) which will catch molten steel and transport it to Caster or other Foundry device.  
-It is vise to make 5 block high chimney above refractory hopper:
+Transfer ladle block should be placed 5 tiles above refractory hopper (funnel for hot liquids) which will catch molten steel and transfer it to the Metal Caster or other Foundry device located below this hopper. Once placed, it will spill 5 cubes of molten metal horizontally (use sneak mode with shift to place without skip).
+Hint: it is vise to make 5 block high chimney above refractory hopper:
 ![Proper ladle placement](https://github.com/McZapkie/TerraFirmaProgressivePack/blob/master/doc/transferladle1.png)
 
 Use pickaxe to skip liquid metal from transfer ladle down to funnel.  
