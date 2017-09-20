@@ -1,12 +1,14 @@
 ## Welcome to the TerraFirmaProgressivePack wiki!
 
+![TFPP logo](http://terrafirmacraft.com/f/uploads/monthly_2017_09/TFPP.jpg.5a3491764a16fd6cb22812be73341074.jpg)
+
 ### Contents:
 ***
 
-* [In-game manual](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/In-game-manual)
-* [Ore generation](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Ore-generation)
-* [Crafting differences](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Crafting-differences)
-* [Mobs, drops, block properties](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Mobs-and-drops)
+* [TFPP In-game manual](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/In-game-manual)
+* [TFPP Ore generation](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Ore-generation)
+* [TFPP Crafting differences](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Crafting-differences)
+* [TFPP Mobs, drops, block properties](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Mobs-and-drops)
 
 ### tutorials:
 
