@@ -9,6 +9,7 @@
 * [TFPP Ore generation](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Ore-generation)
 * [TFPP Crafting differences](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Crafting-differences)
 * [TFPP Mobs, drops, block properties](https://github.com/McZapkie/TerraFirmaProgressivePack/wiki/Mobs-and-drops)
+* [Enviromine and Darkness](https://github.com/Wahazar/TerraFirmaProgressivePack/wiki/Falling-blocks,-air-quality-and-other-threats)
 
 ### tutorials:
 
